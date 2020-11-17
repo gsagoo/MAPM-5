@@ -1,3 +1,21 @@
+# Approximating Pi & Stream function terms
+Please download the repository MAPM-5 then enter into the subdirectory MAPM and at the command line type 
+```
+make all 
+```
+thereafter switch to the main MAMP-5 directory where the file pi_calc_mapm.cpp is located and type
+```
+make piapprox seriesamp2
+```
+After the compilation finishes, you can run the Pi approximating program by double clicking the executable 'piapproximate' (if you're a Windows user) and Linux users should type
+```
+./piapproximate
+```
+Similarly to run the seriesamp2 program Linux users would type
+```
+./seriesamp2
+```
+
 # MAPM-5
 Mike's Arbitrary Precision Math Library Version 5.1  
 
